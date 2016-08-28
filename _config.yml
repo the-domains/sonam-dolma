@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.6100438490975648
 name: Sonam Dolma
+navigation:
+  - name: A Fresh Take On Coffee T-Shirts
+    id: 41b517e7-f309-4abc-8f94-5d7e7621db2a
+    type: content
 title: Tibetan Jewelry & Handicrafts
 description: motsuC
